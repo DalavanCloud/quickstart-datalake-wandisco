@@ -179,43 +179,43 @@
         },
         "AWSAMIRegionMap": {
             "AMI": {
-                "WDFUSIONHVM": "WANdisco Fusion - 2016 08 02-06c7435b-4ea4-4bd3-bfaa-fc58c3e0f5a6-ami-dc0375cb.3"
-            },
-            "us-east-1": {
-                "WDFUSIONHVM": "ami-25b0c632"
-            },
-            "us-east-2": {
-                "WDFUSIONHVM": "ami-47b5ee22"
-            },
-            "us-west-1": {
-                "WDFUSIONHVM": "ami-50b0fc30"
-            },
-            "us-west-2": {
-                "WDFUSIONHVM": "ami-2db86b4d"
-            },
-            "eu-central-1": {
-                "WDFUSIONHVM": "ami-4387752c"
-            },
-            "eu-west-1": {
-                "WDFUSIONHVM": "ami-38740b4b"
-            },
-            "ap-southeast-1": {
-                "WDFUSIONHVM": "ami-d4b862b7"
-            },
-            "ap-southeast-2": {
-                "WDFUSIONHVM": "ami-c71322a4"
+                "WDFUSIONHVM": "WANdisco Fusion - 2016 08 02-06c7435b-4ea4-4bd3-bfaa-fc58c3e0f5a6-ami-dc0375cb.4"
             },
             "ap-northeast-1": {
-                "WDFUSIONHVM": "ami-9b64b0fa"
+                "WDFUSIONHVM": "ami-1dfaba7b"
             },
             "ap-northeast-2": {
-                "WDFUSIONHVM": "ami-e807d286"
-            },
-            "sa-east-1": {
-                "WDFUSIONHVM": "ami-b0ae3edc"
+                "WDFUSIONHVM": "ami-c45ff2aa"
             },
             "ap-south-1": {
-                "WDFUSIONHVM": "ami-ed82f782"
+                "WDFUSIONHVM": "ami-d5c996ba"
+            },
+            "ap-southeast-1": {
+                "WDFUSIONHVM": "ami-3c9cd640"
+            },
+            "ap-southeast-2": {
+                "WDFUSIONHVM": "ami-be9455dc"
+            },
+            "eu-central-1": {
+                "WDFUSIONHVM": "ami-a5f69aca"
+            },
+            "eu-west-1": {
+                "WDFUSIONHVM": "ami-178dcb6e"
+            },
+            "sa-east-1": {
+                "WDFUSIONHVM": "ami-9183c8fd"
+            },
+            "us-east-1": {
+                "WDFUSIONHVM": "ami-b4798fc9"
+            },
+            "us-east-2": {
+                "WDFUSIONHVM": "ami-1bb6817e"
+            },
+            "us-west-1": {
+                "WDFUSIONHVM": "ami-9f767cff"
+            },
+            "us-west-2": {
+                "WDFUSIONHVM": "ami-c5ef65bd"
             }
         }
     },
