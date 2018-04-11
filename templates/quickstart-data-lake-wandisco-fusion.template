@@ -177,7 +177,7 @@
                 "FileURI": "s3://wandisco-public-files/fusion/fusion-ui-server-emr_rpm_installer_2.10.3.1.sh"
             }
         },
-        "AWSRegionToAMI": {
+        "AWSAMIRegionMap": {
             "AMI": {
                 "WDFUSIONHVM": "WANdisco Fusion - 2016 08 02-06c7435b-4ea4-4bd3-bfaa-fc58c3e0f5a6-ami-dc0375cb.3"
             },
@@ -486,7 +486,7 @@
                 },
                 "ImageId": {
                     "Fn::FindInMap": [
-                        "AWSRegionToAMI",
+                        "AWSAMIRegionMap",
                         {
                             "Ref": "AWS::Region"
                         },
