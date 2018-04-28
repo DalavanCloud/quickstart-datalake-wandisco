@@ -15,9 +15,9 @@ The Quick Start offers two deployment options:
 
 You can also use the AWS CloudFormation templates as a starting point for your own implementation.
 
-![Quick Start architecture for a hybrid data lake on AWS](https://d0.awsstatic.com/partner-network/QuickStart/datasheets/wandisco-on-aws-architecture.png.png)
+![Quick Start architecture for a hybrid data lake on AWS](https://d0.awsstatic.com/partner-network/QuickStart/datasheets/wandisco-on-aws-architecture.png)
 
-For architectural details, best practices, step-by-step instructions, and customization options, see the [deployment guide](https://s3.amazonaws.com/quickstart-reference/datalake/wandisco/latest/doc/hybrid-data-lake-with-wandisco-fusion.pdf).
+For architectural details, best practices, step-by-step instructions, and customization options, see the [deployment guide](https://fwd.aws/BBg6V).
 
 To post feedback, submit feature ideas, or report bugs, use the **Issues** section of this GitHub repo.
 If you'd like to submit code for this Quick Start, please review the [AWS Quick Start Contributor's Kit](https://aws-quickstart.github.io/). 
