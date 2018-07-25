@@ -17,7 +17,7 @@
   },
   {
     "ParameterKey": "Password",
-    "ParameterValue": "$[alfred_genpass_16]"
+    "ParameterValue": "$[taskcat_genpass_16]"
   },
   {
     "ParameterKey": "S3Bucket",
@@ -25,7 +25,7 @@
   },
   {
     "ParameterKey": "AvailabilityZones",
-    "ParameterValue": "$[alfred_genaz_2]"
+    "ParameterValue": "$[taskcat_genaz_2]"
   },
   {
     "ParameterKey": "SubscribeARN",
@@ -34,5 +34,9 @@
   {
     "ParameterKey": "FusionLicense",
     "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "QSS3BucketName",
+    "ParameterValue": "$[taskcat_autobucket]"
   }
 ]
